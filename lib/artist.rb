@@ -29,6 +29,3 @@ class Artist
   end
   
 end
-
-# I can't get the artist to "have many" songs, but using my notes and the lesson...
-# I have no idea why

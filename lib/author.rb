@@ -29,6 +29,3 @@ class Author
   end
 
 end
-
-# I can't get the author to "have many" posts, but using my notes and the lesson...
-# I have no idea why
